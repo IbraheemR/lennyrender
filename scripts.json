@@ -1,0 +1,9 @@
+{
+  "$schema": "https://deno.land/x/denon@2.4.6/schema.json",
+  "scripts": {
+    "dev": {
+      "cmd": "deno run --allow-net src/render_lenny_dev_server.ts",
+      "desc": "Run test files"
+    }
+  }
+}
